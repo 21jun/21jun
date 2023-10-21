@@ -28,24 +28,28 @@ Automatic Speech Recogntion (ASR), Multilingual ASR, MLops, Kubernetes
 
 ## Education 🎓
 
-`2017 - 2020`
-__Sejong University, Seoul (Korea)__
-B.S. Degree (Software Engineering)
 
 `2021.Feb - now`
 __POSTECH, Pohang (Korea)__
 Ph.D./M.S. Degree (Computer Science and Engineering)
 
 
+`2017 - 2020`
+__Sejong University, Seoul (Korea)__
+B.S. Degree (Software Engineering)
+
+
 
 
 ## Awards 🏆
 
-`2021`
-- Korean Artificial Intelligence Contest (Speech Recognition) 4th Prize, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea
 
 `2022`
-- Korean Artificial Intelligence Contest (Speech Recognition) Grand Prize (2nd), Minister's Award, *Ministry of Science and ICT*, Republic of Korea [<a href="https://youtu.be/yVD7zkpwxDo">link</a>]  [<a href="https://www.aitimes.kr/news/articleView.html?idxno=26202">link</a>] 
+- Korean Artificial Intelligence Contest (Speech Recognition) Grand Prize (2nd), Minister's Award, ***Ministry of Science and ICT***, Republic of Korea [<a href="https://youtu.be/yVD7zkpwxDo">link</a>]  [<a href="https://www.aitimes.kr/news/articleView.html?idxno=26202">link</a>]
+  
+
+`2021`
+- Korean Artificial Intelligence Contest (Speech Recognition) 4th Prize, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea
 
 
 ## Publications 📜
