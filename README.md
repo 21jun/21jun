@@ -43,13 +43,17 @@ B.S. Degree (Software Engineering)
 
 ## Awards 🏆
 
+`2023`
+
+- Korean Artificial Intelligence Contest (Speech Recognition) 5th Ranked, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea
+[<a href="https://competition.aihub.or.kr/notice/noticeDetail/101">link</a>] 
 
 `2022`
 - Korean Artificial Intelligence Contest (Speech Recognition) Grand Prize (2nd), Minister's Award, ***Ministry of Science and ICT***, Republic of Korea [<a href="https://youtu.be/yVD7zkpwxDo">link</a>]  [<a href="https://www.aitimes.kr/news/articleView.html?idxno=26202">link</a>]
   
 
 `2021`
-- Korean Artificial Intelligence Contest (Speech Recognition) 4th Prize, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea
+- Korean Artificial Intelligence Contest (Speech Recognition) 4th Ranked, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea
 
 
 ## Publications 📜
