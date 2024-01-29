@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Currently ♻️
 
-Ph.D./MS Student @POSTECH <a href="nlp.postech.ac.kr">NLP LAB</a>
+Ph.D./MS Student @POSTECH <a href="https://nlp.postech.ac.kr">NLP LAB</a>
 
 
 ### Research interests 🎯
