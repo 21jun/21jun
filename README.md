@@ -75,6 +75,12 @@ B.S. Degree (Software Engineering)
 
   IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU), 2023
 
+- __Acoustic Feature Mixup for Balanced Multi-aspect Pronunciation Assessment__
+
+  Heejin Do, **Wonjun Lee**, Gary Geunbae Lee
+
+  INTERSPEECH, 2024
+
 #### Domestic
 
 - __한국어 자모단위 음성인식 결과 후보정을 위한 신경망 기반 자모 병합 방법론__
