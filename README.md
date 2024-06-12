@@ -83,6 +83,14 @@ B.S. Degree (Software Engineering)
 
 #### Domestic
 
+- __How to Use Speech Related Digital Biomarkers in Patients With Depressive Disorder__
+
+  **Wonjun Lee***, Seungyeon Seo*, Hyun Jeong Kim
+
+  Digital Health Research (Korean Society of Digital Health)
+
+  link: https://e-dhr.org/DOIx.php?id=10.61499/dhr.2024.2.e2
+
 - __한국어 자모단위 음성인식 결과 후보정을 위한 신경망 기반 자모 병합 방법론__
 
   임솔이*, **이원준***, 이근배, 김윤수
