@@ -36,14 +36,14 @@ Ph.D./M.S. Degree (Computer Science and Engineering)
 
 `2017 - 2020`
 __Sejong University, Seoul (Korea)__
-B.S. Degree (Software Engineering)
+B.S. Degree (Software Engineering & Data Science)
 
 
 
 
 ## Awards 🏆
 
-한국어 인공지능 경진대회 
+한국어 인공지능 경진대회 (음성인식)
 
 - Korean Artificial Intelligence Contest (Speech Recognition) Grand Prize (2nd), Minister's Award, ***Ministry of Science and ICT***, Republic of Korea [<a href="https://youtu.be/yVD7zkpwxDo">link</a>]  [<a href="https://www.aitimes.kr/news/articleView.html?idxno=26202">link</a>], 최우수상, 과기정통부 장관상, 2022
 
