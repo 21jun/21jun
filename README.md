@@ -34,7 +34,7 @@ __POSTECH, Pohang (Korea)__
 Ph.D./M.S. Degree (Computer Science and Engineering)
 
 
-`2017 - 2020`
+`2017 - 2021`
 __Sejong University, Seoul (Korea)__
 B.S. Degree (Software Engineering & Data Science)
 
