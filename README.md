@@ -43,17 +43,14 @@ B.S. Degree (Software Engineering)
 
 ## Awards 🏆
 
-`2023`
+한국어 인공지능 경진대회 
+
+- Korean Artificial Intelligence Contest (Speech Recognition) Grand Prize (2nd), Minister's Award, ***Ministry of Science and ICT***, Republic of Korea [<a href="https://youtu.be/yVD7zkpwxDo">link</a>]  [<a href="https://www.aitimes.kr/news/articleView.html?idxno=26202">link</a>], 최우수상, 과기정통부 장관상, 2022
 
 - Korean Artificial Intelligence Contest (Speech Recognition) 5th Ranked, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea
-[<a href="https://competition.aihub.or.kr/notice/noticeDetail/101">link</a>] 
+[<a href="https://competition.aihub.or.kr/notice/noticeDetail/101">link</a>], 장려상, 지능정보원(NIA) 원장상, 2023
 
-`2022`
-- Korean Artificial Intelligence Contest (Speech Recognition) Grand Prize (2nd), Minister's Award, ***Ministry of Science and ICT***, Republic of Korea [<a href="https://youtu.be/yVD7zkpwxDo">link</a>]  [<a href="https://www.aitimes.kr/news/articleView.html?idxno=26202">link</a>]
-  
-
-`2021`
-- Korean Artificial Intelligence Contest (Speech Recognition) 4th Ranked, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea
+- Korean Artificial Intelligence Contest (Speech Recognition) 4th Ranked, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea, 장려상, 지능정보원(NIA) 원장상, 2021 
 
 
 ## Publications 📜
@@ -62,34 +59,32 @@ B.S. Degree (Software Engineering)
 
 #### International
 
-- __Optimizing Two-Pass Cross-Lingual Transfer Learning: Phoneme Recognition and Phoneme to Grapheme Translation__
+- __Optimizing Two-Pass Cross-Lingual Transfer Learning: Phoneme Recognition and Phoneme to Grapheme Translation__  [<a href="https://arxiv.org/abs/2312.03312">link</a>]
 
   **Wonjun Lee**, Yunsu Kim and Gary Geunbae Lee
 
   IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU), 2023
 
 
-- __Exploring the Viability of Synthetic Audio Data for Audio-Based Dialogue State Tracking__
+- __Exploring the Viability of Synthetic Audio Data for Audio-Based Dialogue State Tracking__ [<a href="https://arxiv.org/abs/2312.01842">link</a>]
 
   Jihyun Lee*, Yejin Jeon*, **Wonjun Lee**, Yunsu Kim and Gary Geunbae Lee
 
   IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU), 2023
 
-- __Acoustic Feature Mixup for Balanced Multi-aspect Pronunciation Assessment__
+- __Acoustic Feature Mixup for Balanced Multi-aspect Pronunciation Assessment__  [<a href="https://arxiv.org/abs/2406.15723">link</a>]
 
   Heejin Do, **Wonjun Lee**, Gary Geunbae Lee
 
   INTERSPEECH, 2024
 
-#### Domestic
 
-- __How to Use Speech Related Digital Biomarkers in Patients With Depressive Disorder__
+#### Domestic
+- __How to Use Speech Related Digital Biomarkers in Patients With Depressive Disorder__ [<a href="https://e-dhr.org/DOIx.php?id=10.61499/dhr.2024.2.e2">link</a>]
 
   **Wonjun Lee***, Seungyeon Seo*, Hyun Jeong Kim
 
   Digital Health Research (Korean Society of Digital Health)
-
-  link: https://e-dhr.org/DOIx.php?id=10.61499/dhr.2024.2.e2
 
 - __한국어 자모단위 음성인식 결과 후보정을 위한 신경망 기반 자모 병합 방법론__
 
