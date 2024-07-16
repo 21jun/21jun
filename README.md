@@ -59,6 +59,25 @@ B.S. Degree (Software Engineering & Data Science)
 
 #### International
 
+- __Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning__
+
+  **Wonjun Lee***, San Kim*, Gary Geunbae Lee
+  
+  25th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDial), 2024
+  
+
+- __An Investigation Into Explainable Audio Hate Speech Detection__
+
+  **Wonjun Lee***, Jinmyeong An*, Yejin Jeon, Jungseul Ok, Yunsu Kim, Gary Geunbae Lee
+
+  25th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDial), 2024
+  
+- __Acoustic Feature Mixup for Balanced Multi-aspect Pronunciation Assessment__  [<a href="https://arxiv.org/abs/2406.15723">link</a>]
+
+  Heejin Do, **Wonjun Lee**, Gary Geunbae Lee
+
+  INTERSPEECH, 2024
+
 - __Optimizing Two-Pass Cross-Lingual Transfer Learning: Phoneme Recognition and Phoneme to Grapheme Translation__  [<a href="https://arxiv.org/abs/2312.03312">link</a>]
 
   **Wonjun Lee**, Yunsu Kim and Gary Geunbae Lee
@@ -72,11 +91,7 @@ B.S. Degree (Software Engineering & Data Science)
 
   IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU), 2023
 
-- __Acoustic Feature Mixup for Balanced Multi-aspect Pronunciation Assessment__  [<a href="https://arxiv.org/abs/2406.15723">link</a>]
 
-  Heejin Do, **Wonjun Lee**, Gary Geunbae Lee
-
-  INTERSPEECH, 2024
 
 
 #### Domestic
