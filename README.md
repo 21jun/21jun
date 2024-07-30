@@ -50,7 +50,9 @@ B.S. Degree (Software Engineering & Data Science)
 - Korean Artificial Intelligence Contest (Speech Recognition) 5th Ranked, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea
 [<a href="https://competition.aihub.or.kr/notice/noticeDetail/101">link</a>], 장려상, 지능정보원(NIA) 원장상, 2023
 
-- Korean Artificial Intelligence Contest (Speech Recognition) 4th Ranked, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea, 장려상, 지능정보원(NIA) 원장상, 2021 
+- Korean Artificial Intelligence Contest (Speech Recognition) 4th Ranked, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea [<a href="[https://competition.aihub.or.kr/notice/noticeDetail/101](https://m.etnews.com/20211216000213?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ%3D%3D)">link</a>], 장려상, 지능정보원(NIA) 원장상, 2021
+
+
 
 
 ## Publications 📜
