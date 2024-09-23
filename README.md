@@ -44,7 +44,7 @@ B.S. Degree (Software Engineering & Data Science)
 ## Awards 🏆
 
 - Best Paper Nominee in SiGDial 2024: Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning
-  Wonjun Lee*, San Kim* and Gary Geunbae Lee
+  Wonjun Lee*, San Kim* and Gary Geunbae Lee [<a href="https://2024.sigdial.org/award/">link</a>]
 
 
 한국어 인공지능 경진대회 (음성인식)
