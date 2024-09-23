@@ -65,14 +65,14 @@ B.S. Degree (Software Engineering & Data Science)
 
 #### International
 
-- __Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning__
+- __Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning__  [<a href="https://aclanthology.org/2024.sigdial-1.30/">link</a>]
 
   **Wonjun Lee***, San Kim*, Gary Geunbae Lee
   
   25th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDial), 2024
   
 
-- __An Investigation Into Explainable Audio Hate Speech Detection__
+- __An Investigation Into Explainable Audio Hate Speech Detection__  [<a href="https://aclanthology.org/2024.sigdial-1.45/">link</a>] 
 
   **Wonjun Lee***, Jinmyeong An*, Yejin Jeon, Jungseul Ok, Yunsu Kim, Gary Geunbae Lee
 
