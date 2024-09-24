@@ -65,7 +65,7 @@ B.S. Degree (Software Engineering & Data Science)
 
 #### International
 
-- __Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning__  [<a href="https://aclanthology.org/2024.sigdial-1.30/">link</a>]
+- (Best Paper Nominee) __Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning__  [<a href="https://aclanthology.org/2024.sigdial-1.30/">link</a>]
 
   **Wonjun Lee***, San Kim*, Gary Geunbae Lee
   
