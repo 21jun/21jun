@@ -69,33 +69,33 @@ B.S. Degree (Software Engineering & Data Science)
 
   **Wonjun Lee***, San Kim*, Gary Geunbae Lee
   
-  🇯🇵 ACL/ISCA Special Interest Group on Discourse and Dialogue (SIGDial), 2024
+  🇯🇵 ACL/ISCA Special Interest Group on Discourse and Dialogue (SIGDial), 2024, Kyoto, Japan
   
 
 - __An Investigation Into Explainable Audio Hate Speech Detection__  [<a href="https://aclanthology.org/2024.sigdial-1.45/">link</a>] 
 
   **Wonjun Lee***, Jinmyeong An*, Yejin Jeon, Jungseul Ok, Yunsu Kim, Gary Geunbae Lee
 
-  🇯🇵 ACL/ISCA Special Interest Group on Discourse and Dialogue (SIGDial), 2024
+  🇯🇵 ACL/ISCA Special Interest Group on Discourse and Dialogue (SIGDial), 2024, Kyoto, Japan
   
 - __Acoustic Feature Mixup for Balanced Multi-aspect Pronunciation Assessment__  [<a href="https://arxiv.org/abs/2406.15723">link</a>]
 
   Heejin Do, **Wonjun Lee**, Gary Geunbae Lee
 
-  🇬🇷 INTERSPEECH, 2024
+  🇬🇷 INTERSPEECH, 2024, Kos Island, Greece
 
 - __Optimizing Two-Pass Cross-Lingual Transfer Learning: Phoneme Recognition and Phoneme to Grapheme Translation__  [<a href="https://arxiv.org/abs/2312.03312">link</a>]
 
   **Wonjun Lee**, Yunsu Kim and Gary Geunbae Lee
 
-  🇹🇼 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU), 2023
+  🇹🇼 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU), 2023, Taipei, Taiwan
 
 
 - __Exploring the Viability of Synthetic Audio Data for Audio-Based Dialogue State Tracking__ [<a href="https://arxiv.org/abs/2312.01842">link</a>]
 
   Jihyun Lee*, Yejin Jeon*, **Wonjun Lee**, Yunsu Kim and Gary Geunbae Lee
 
-  🇹🇼 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU), 2023
+  🇹🇼 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU), 2023, Taipei, Taiwan
 
 
 
@@ -111,7 +111,7 @@ B.S. Degree (Software Engineering & Data Science)
 
   임솔이*, **이원준***, 이근배, 김윤수
   
-  🇰🇷제35회 한글 및 한국어 정보처리 학술대회논문집 (HCLT), 2023
+  🇰🇷제35회 한글 및 한국어 정보처리 학술대회논문집 (HCLT), 2023, 제주, 대한민국
 
 - __다국어 음성인식을 위한 언어별 출력 계층 구조 Wav2Vec2.0__
 
