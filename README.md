@@ -119,6 +119,14 @@ B.S. Degree (Software Engineering & Data Science)
 
   🇰🇷제33회 한글 및 한국어 정보처리 학술대회 논문집 (HCLT), pp. 414-418, 2021
 
+
+#### Preprints
+
+- __Keyword-Aware ASR Error Augmentation for Robust Dialogue State Tracking__ [<a href="https://arxiv.org/abs/2409.06263">link</a>]
+
+  Jihyun Lee, Solee Im, **Wonjun Lee**, Gary Geunbae Lee
+
+  📄 Preprint, Arxiv.
 <!-- ### Footer
 
 Last updated: May 2013 -->
