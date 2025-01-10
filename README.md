@@ -127,6 +127,11 @@ B.S. Degree (Software Engineering & Data Science)
   Jihyun Lee, Solee Im, **Wonjun Lee**, Gary Geunbae Lee
 
   📄 Preprint, Arxiv.
+
+## Patents
+
+- __Method and Apparatus for Multilingual Speech Recognition based on Artificial Intelligence Models, U.S. , 17/954,185__
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
