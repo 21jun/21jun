@@ -112,19 +112,19 @@ B.S. Degree (Software Engineering & Data Science)
 
   **Wonjun Lee***, Seungyeon Seo*, Hyun Jeong Kim
 
-  🇰🇷Digital Health Research (Korean Society of Digital Health)
+  🇰🇷 Digital Health Research (Korean Society of Digital Health)
 
 - __한국어 자모단위 음성인식 결과 후보정을 위한 신경망 기반 자모 병합 방법론__
 
   임솔이*, **이원준***, 이근배, 김윤수
   
-  🇰🇷제35회 한글 및 한국어 정보처리 학술대회논문집 (HCLT), 2023, 제주, 대한민국
+  🍊 제35회 한글 및 한국어 정보처리 학술대회논문집 (HCLT), 2023, 제주, 대한민국
 
 - __다국어 음성인식을 위한 언어별 출력 계층 구조 Wav2Vec2.0__
 
   **이원준**, 이근배
 
-  🇰🇷제33회 한글 및 한국어 정보처리 학술대회 논문집 (HCLT), pp. 414-418, 2021
+  🇰🇷 제33회 한글 및 한국어 정보처리 학술대회 논문집 (HCLT), pp. 414-418, 2021
 
 
 #### Preprints
