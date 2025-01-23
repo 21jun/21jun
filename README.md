@@ -65,6 +65,13 @@ B.S. Degree (Software Engineering & Data Science)
 
 #### International
 
+- __DyPCL: Dynamic Phoneme-level Contrastive Learning for Dysarthric Speech Recognition__
+
+  **Wonjun Lee***, Solee Im*, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee
+
+  🇺🇸 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), 2025, Albuquerque, New Mexico, USA 
+
+
 - (Best Paper Nominee) __Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning__  [<a href="https://aclanthology.org/2024.sigdial-1.30/">link</a>]
 
   **Wonjun Lee***, San Kim*, Gary Geunbae Lee
