@@ -65,7 +65,7 @@ B.S. Degree (Software Engineering & Data Science)
 
 #### International
 
-- __DyPCL: Dynamic Phoneme-level Contrastive Learning for Dysarthric Speech Recognition__
+- __DyPCL: Dynamic Phoneme-level Contrastive Learning for Dysarthric Speech Recognition__ [<a href="https://arxiv.org/pdf/2501.19010">link</a>]
 
   **Wonjun Lee***, Solee Im*, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee
 
