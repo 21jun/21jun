@@ -41,11 +41,7 @@ B.S. Degree (Software Engineering & Data Science)
 
 
 
-## Awards 🏆
-
-- Best Paper Nominee in SiGDial 2024: Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning
-  Wonjun Lee*, San Kim* and Gary Geunbae Lee [<a href="https://2024.sigdial.org/award/">link</a>]
-
+## Awards and Honors 🏆
 
 한국어 인공지능 경진대회 (음성인식)
 
@@ -56,6 +52,11 @@ B.S. Degree (Software Engineering & Data Science)
 
 - Korean Artificial Intelligence Contest (Speech Recognition) 4th Ranked, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea [<a href="https://m.etnews.com/20211216000213?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ%3D%3D">link</a>], 장려상, 지능정보원(NIA) 원장상, 2021
 
+
+Conference
+
+- Best Paper Nominee in SiGDial 2024: Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning
+  Wonjun Lee*, San Kim* and Gary Geunbae Lee [<a href="https://2024.sigdial.org/award/">link</a>]
 
 
 
@@ -69,40 +70,40 @@ B.S. Degree (Software Engineering & Data Science)
 
   **Wonjun Lee***, Solee Im*, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee
 
-  🇺🇸 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), 2025, Albuquerque, New Mexico, USA 
+  🇺🇸 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL**), 2025, Albuquerque, New Mexico, USA 
 
 
 - __Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning__  [<a href="https://aclanthology.org/2024.sigdial-1.30/">link</a>] [<a href="https://2024.sigdial.org/award/">link</a>]
 
   **Wonjun Lee***, San Kim*, Gary Geunbae Lee
   
-  🇯🇵 ACL/ISCA Special Interest Group on Discourse and Dialogue (SIGDial), 2024, Kyoto, Japan
+  🇯🇵 ACL/ISCA Special Interest Group on Discourse and Dialogue (**SIGDial**), 2024, Kyoto, Japan
   
 
 - __An Investigation Into Explainable Audio Hate Speech Detection__  [<a href="https://aclanthology.org/2024.sigdial-1.45/">link</a>] 
 
   **Wonjun Lee***, Jinmyeong An*, Yejin Jeon, Jungseul Ok, Yunsu Kim, Gary Geunbae Lee
 
-  🇯🇵 ACL/ISCA Special Interest Group on Discourse and Dialogue (SIGDial), 2024, Kyoto, Japan
+  🇯🇵 ACL/ISCA Special Interest Group on Discourse and Dialogue (**SIGDial**), 2024, Kyoto, Japan
   
 - __Acoustic Feature Mixup for Balanced Multi-aspect Pronunciation Assessment__  [<a href="https://arxiv.org/abs/2406.15723">link</a>]
 
   Heejin Do, **Wonjun Lee**, Gary Geunbae Lee
 
-  🇬🇷 INTERSPEECH, 2024, Kos Island, Greece
+  🇬🇷 **INTERSPEECH**, 2024, Kos Island, Greece
 
 - __Optimizing Two-Pass Cross-Lingual Transfer Learning: Phoneme Recognition and Phoneme to Grapheme Translation__  [<a href="https://arxiv.org/abs/2312.03312">link</a>]
 
   **Wonjun Lee**, Yunsu Kim and Gary Geunbae Lee
 
-  🇹🇼 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU), 2023, Taipei, Taiwan
+  🇹🇼 IEEE Workshop on Automatic Speech Recognition and Understanding (**ASRU**), 2023, Taipei, Taiwan
 
 
 - __Exploring the Viability of Synthetic Audio Data for Audio-Based Dialogue State Tracking__ [<a href="https://arxiv.org/abs/2312.01842">link</a>]
 
   Jihyun Lee*, Yejin Jeon*, **Wonjun Lee**, Yunsu Kim and Gary Geunbae Lee
 
-  🇹🇼 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU), 2023, Taipei, Taiwan
+  🇹🇼 IEEE Workshop on Automatic Speech Recognition and Understanding (**ASRU**), 2023, Taipei, Taiwan
 
 
 
