@@ -66,11 +66,17 @@ Conference
 
 #### International
 
+- __DeRAGEC: Denoising Named Entity Candidates with Synthetic Rationale for ASR Error Correction__ [<a href="#">link</a>]
+
+  **Wonjun Lee***, Solee Im*,  Jinmyeong An, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee
+
+  🇦🇹 Annual Meeting of the Association for Computational Linguistics (**ACL**) Findings, 2025, Vienna, Austria
+
 - __DyPCL: Dynamic Phoneme-level Contrastive Learning for Dysarthric Speech Recognition__ [<a href="https://arxiv.org/pdf/2501.19010">link</a>]
 
   **Wonjun Lee***, Solee Im*, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee
 
-  🇺🇸 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL**), 2025, Albuquerque, New Mexico, USA 
+  🇺🇸 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL**) Main Conference, 2025, Albuquerque, New Mexico, USA 
 
 
 - __Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning__  [<a href="https://aclanthology.org/2024.sigdial-1.30/">link</a>] [<a href="https://2024.sigdial.org/award/">link</a>]
