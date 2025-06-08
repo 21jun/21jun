@@ -1,5 +1,3 @@
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F21jun&count_bg=%23364AB2&title_bg=%23272727&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <!--
 **21jun/21jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Currently ♻️
 
-Ph.D./MS Student @POSTECH <a href="https://nlp.postech.ac.kr">NLP LAB</a>
+Ph.D./M.S. Student @POSTECH <a href="https://nlp.postech.ac.kr">NLP Lab</a>, advised by <a href=https://sites.google.com/view/gary-geunbae-lee/>Prof. Gary Geunbae Lee</a>
 
 
 ### Research interests 🎯
