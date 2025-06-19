@@ -21,9 +21,9 @@ Ph.D./M.S. Student @POSTECH <a href="https://nlp.postech.ac.kr">NLP Lab</a>, adv
 
 
 ### Research interests 🎯
+Automatic Speech Recogntion (ASR), LLM, MLops, Kubernetes
 
-Automatic Speech Recogntion (ASR), Multilingual ASR, MLops, Kubernetes
-
+<a href="https://scholar.google.com/citations?hl=ko&view_op=list_works&gmla=AH8HC4z4WsXEvnKSVAYHrGM-cBKMnK-3l6-Qf6zPYXKhLFqXaROb6aLqO-UQtp5PFPITsI-2een1E2_E0Udh7ALob5eT8bAxHKNVY9aHace5Gyz2UFO4htYiD_SZjp8&user=2ut1edkAAAAJ">Google Scholar  </a>
 ## Education 🎓
 
 
