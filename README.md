@@ -64,7 +64,7 @@ Conference
 
 #### International
 
-- __DeRAGEC: Denoising Named Entity Candidates with Synthetic Rationale for ASR Error Correction__ [<a href="#">link</a>]
+- __DeRAGEC: Denoising Named Entity Candidates with Synthetic Rationale for ASR Error Correction__ [<a href="https://arxiv.org/abs/2506.07510">link</a>]
 
   **Wonjun Lee***, Solee Im*,  Jinmyeong An, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee
 
