@@ -64,6 +64,12 @@ Conference
 
 #### International
 
+- __Speak & Spell: LLM-Driven Controllable Phonetic Error Augmentation for Robust Dialogue State Tracking__
+
+  Jihyun Lee, Solee Im, **Wonjun Lee**, Gary Geunbae Lee
+
+  🇮🇳 International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (**IJCNLP-AACL**), 2025, Mumbai, India
+
 - __DeRAGEC: Denoising Named Entity Candidates with Synthetic Rationale for ASR Error Correction__ [<a href="https://arxiv.org/abs/2506.07510">link</a>]
 
   **Wonjun Lee***, Solee Im*,  Jinmyeong An, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee
@@ -130,15 +136,6 @@ Conference
   **이원준**, 이근배
 
   🇰🇷 제33회 한글 및 한국어 정보처리 학술대회 논문집 (HCLT), pp. 414-418, 2021
-
-
-#### Preprints
-
-- __Keyword-Aware ASR Error Augmentation for Robust Dialogue State Tracking__ [<a href="https://arxiv.org/abs/2409.06263">link</a>]
-
-  Jihyun Lee, Solee Im, **Wonjun Lee**, Gary Geunbae Lee
-
-  📄 Preprint, Arxiv.
 
 ## Patents
 
