@@ -43,13 +43,17 @@ B.S. Degree (Software Engineering & Data Science)
 
 한국어 인공지능 경진대회 (음성인식)
 
-- Korean Artificial Intelligence Contest (Speech Recognition) Grand Prize (2nd), Minister's Award, ***Ministry of Science and ICT***, Republic of Korea [<a href="https://youtu.be/yVD7zkpwxDo">link</a>]  [<a href="https://www.aitimes.kr/news/articleView.html?idxno=26202">link</a>], 최우수상, 과기정통부 장관상, 2022
+- Korean Artificial Intelligence Contest (Speech Recognition) Grand Prize (2nd), Minister's Award, ***Ministry of Science and ICT***, Republic of Korea [<a href="https://youtu.be/yVD7zkpwxDo">link</a>]  [<a href="https://www.aitimes.kr/news/articleView.html?idxno=26202">link</a>], 최우수상, **과기정통부 장관상**, 2022
 
 - Korean Artificial Intelligence Contest (Speech Recognition) 5th Ranked, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea
 [<a href="https://competition.aihub.or.kr/notice/noticeDetail/101">link</a>], 장려상, 지능정보원(NIA) 원장상, 2023
 
 - Korean Artificial Intelligence Contest (Speech Recognition) 4th Ranked, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea [<a href="https://m.etnews.com/20211216000213?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ%3D%3D">link</a>], 장려상, 지능정보원(NIA) 원장상, 2021
 
+ICT Chanllenge 2025
+
+- Global Innovation Award, ICT Challenge 2025, ***Minister of Science and ICT***, Republic of Korea [<a href="https://cse.postech.ac.kr/csepostech/news/new.do?mode=view&articleNo=35426&article.offset=0&articleLimit=10">link</a>] [<a href="https://youtube.com/shorts/urnC_gU1rHA?si=_3S81Gz0Qf2GfjFH">link</a>] 
+Multi-modal Multi-session Counseling System, **과학기술정보통신부 장관상**, 2025  
 
 Conference
 
