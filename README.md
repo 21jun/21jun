@@ -1,152 +1,102 @@
-<!--
-**21jun/21jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Wonjun Lee
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Wonjun Lee 🌊
+Ph.D./M.S. Student at POSTECH NLP Lab  
+Advised by Prof. Gary Geunbae Lee  
+Research Interests: Automatic Speech Recognition (ASR), Large Language Models (LLM), MLOps, Kubernetes  
+[Google Scholar](https://scholar.google.com/citations?hl=ko&user=2ut1edkAAAAJ)
 
+---
 
-## Currently ♻️
+## Education
 
-Ph.D./M.S. Student @POSTECH <a href="https://nlp.postech.ac.kr">NLP Lab</a>, advised by <a href=https://sites.google.com/view/gary-geunbae-lee/>Prof. Gary Geunbae Lee</a>
+**2021.02 – Present**  
+POSTECH (Pohang, Korea)  
+Ph.D./M.S. in Computer Science and Engineering
 
+**2017 – 2021**  
+Sejong University (Seoul, Korea)  
+B.S. in Software Engineering & Data Science
 
-### Research interests 🎯
-Automatic Speech Recogntion (ASR), LLM, MLops, Kubernetes
+---
 
-<a href="https://scholar.google.com/citations?hl=ko&view_op=list_works&gmla=AH8HC4z4WsXEvnKSVAYHrGM-cBKMnK-3l6-Qf6zPYXKhLFqXaROb6aLqO-UQtp5PFPITsI-2een1E2_E0Udh7ALob5eT8bAxHKNVY9aHace5Gyz2UFO4htYiD_SZjp8&user=2ut1edkAAAAJ">Google Scholar  </a>
-## Education 🎓
+## Awards and Honors
 
+### Korean AI Contest (Speech Recognition)
 
-`2021.Feb - now`
-__POSTECH, Pohang (Korea)__
-Ph.D./M.S. Degree (Computer Science and Engineering)
+- Grand Prize (2nd), Minister’s Award, Ministry of Science and ICT, 2022  [link](https://youtu.be/yVD7zkpwxDo)  [link](https://www.aitimes.kr/news/articleView.html?idxno=26202)
 
+- 5th Place, Director’s Award, National Information Society Agency (NIA), 2023  [link](https://competition.aihub.or.kr/notice/noticeDetail/101)
 
-`2017 - 2021`
-__Sejong University, Seoul (Korea)__
-B.S. Degree (Software Engineering & Data Science)
+- 4th Place, Director’s Award, National Information Society Agency (NIA), 2021  [link](https://m.etnews.com/20211216000213?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ==)
 
+### ICT Challenge 2025
 
+- Global Innovation Award, Minister of Science and ICT, 2025  
+  Project: Multi-modal Multi-session Counseling System  [link](https://cse.postech.ac.kr/csepostech/news/new.do?mode=view&articleNo=35426&article.offset=0&articleLimit=10)  [link](https://youtube.com/shorts/urnC_gU1rHA?si=_3S81Gz0Qf2GfjFH)
 
+### Conference Recognition
 
-## Awards and Honors 🏆
+- Best Paper Nominee, SIGDial 2024  
+  “Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning”    [link](https://2024.sigdial.org/award/)
 
-한국어 인공지능 경진대회 (음성인식)
+---
 
-- Korean Artificial Intelligence Contest (Speech Recognition) Grand Prize (2nd), Minister's Award, ***Ministry of Science and ICT***, Republic of Korea [<a href="https://youtu.be/yVD7zkpwxDo">link</a>]  [<a href="https://www.aitimes.kr/news/articleView.html?idxno=26202">link</a>], 최우수상, **과기정통부 장관상**, 2022
+## Publications
 
-- Korean Artificial Intelligence Contest (Speech Recognition) 5th Ranked, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea
-[<a href="https://competition.aihub.or.kr/notice/noticeDetail/101">link</a>], 장려상, 지능정보원(NIA) 원장상, 2023
+### International Conferences
 
-- Korean Artificial Intelligence Contest (Speech Recognition) 4th Ranked, Director's Award, *National Information Society Agency (NIA)*, Republic of Korea [<a href="https://m.etnews.com/20211216000213?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ%3D%3D">link</a>], 장려상, 지능정보원(NIA) 원장상, 2021
+**Speak & Spell: LLM-Driven Controllable Phonetic Error Augmentation for Robust Dialogue State Tracking**  
+Jihyun Lee, Solee Im, **Wonjun Lee**, Gary Geunbae Lee  
+IJCNLP-AACL 2025, Mumbai, India
 
-ICT Chanllenge 2025
+**DeRAGEC: Denoising Named Entity Candidates with Synthetic Rationale for ASR Error Correction**  
+**Wonjun Lee***, Solee Im*, Jinmyeong An, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee  
+ACL Findings 2025, Vienna, Austria  [link](https://arxiv.org/abs/2506.07510)
 
-- Global Innovation Award, ICT Challenge 2025, ***Minister of Science and ICT***, Republic of Korea [<a href="https://cse.postech.ac.kr/csepostech/news/new.do?mode=view&articleNo=35426&article.offset=0&articleLimit=10">link</a>] [<a href="https://youtube.com/shorts/urnC_gU1rHA?si=_3S81Gz0Qf2GfjFH">link</a>] 
-Multi-modal Multi-session Counseling System, **과학기술정보통신부 장관상**, 2025  
+**DyPCL: Dynamic Phoneme-level Contrastive Learning for Dysarthric Speech Recognition**  
+**Wonjun Lee***, Solee Im*, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee  
+NAACL 2025, Albuquerque, USA  [link](https://arxiv.org/pdf/2501.19010)
 
-Conference
+**Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning**  
+**Wonjun Lee***, San Kim*, Gary Geunbae Lee  
+SIGDial 2024, Kyoto, Japan  [link](https://aclanthology.org/2024.sigdial-1.30/)
 
-- Best Paper Nominee in SiGDial 2024: Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning
-  Wonjun Lee*, San Kim* and Gary Geunbae Lee [<a href="https://2024.sigdial.org/award/">link</a>]
+**An Investigation Into Explainable Audio Hate Speech Detection**  
+**Wonjun Lee***, Jinmyeong An*, Yejin Jeon, Jungseul Ok, Yunsu Kim, Gary Geunbae Lee  
+SIGDial 2024, Kyoto, Japan  [link](https://aclanthology.org/2024.sigdial-1.45/)
 
+**Acoustic Feature Mixup for Balanced Multi-aspect Pronunciation Assessment**  
+Heejin Do, **Wonjun Lee**, Gary Geunbae Lee  
+INTERSPEECH 2024, Kos Island, Greece  [link](https://arxiv.org/abs/2406.15723)
 
+**Optimizing Two-Pass Cross-Lingual Transfer Learning: Phoneme Recognition and Phoneme to Grapheme Translation**  
+**Wonjun Lee**, Yunsu Kim, Gary Geunbae Lee  
+ASRU 2023, Taipei, Taiwan  [link](https://arxiv.org/abs/2312.03312)
 
-## Publications 📜
+**Exploring the Viability of Synthetic Audio Data for Audio-Based Dialogue State Tracking**  
+Jihyun Lee*, Yejin Jeon*, **Wonjun Lee**, Yunsu Kim, Gary Geunbae Lee  
+ASRU 2023, Taipei, Taiwan  [link](https://arxiv.org/abs/2312.01842)
 
-### Conference 
+---
 
-#### International
+### Domestic Conferences
 
-- __Speak & Spell: LLM-Driven Controllable Phonetic Error Augmentation for Robust Dialogue State Tracking__
+**How to Use Speech Related Digital Biomarkers in Patients With Depressive Disorder**  
+**Wonjun Lee***, Seungyeon Seo*, Hyun Jeong Kim  
+Digital Health Research (Korean Society of Digital Health)  [link](https://e-dhr.org/DOIx.php?id=10.61499/dhr.2024.2.e2)
 
-  Jihyun Lee, Solee Im, **Wonjun Lee**, Gary Geunbae Lee
+**한국어 자모단위 음성인식 결과 후보정을 위한 신경망 기반 자모 병합 방법론**  
+임솔이*, **이원준***, 이근배, 김윤수  
+HCLT 2023, Jeju, Korea
 
-  🇮🇳 International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (**IJCNLP-AACL**), 2025, Mumbai, India
+**다국어 음성인식을 위한 언어별 출력 계층 구조 Wav2Vec2.0**  
+**이원준**, 이근배  
+HCLT 2021
 
-- __DeRAGEC: Denoising Named Entity Candidates with Synthetic Rationale for ASR Error Correction__ [<a href="https://arxiv.org/abs/2506.07510">link</a>]
-
-  **Wonjun Lee***, Solee Im*,  Jinmyeong An, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee
-
-  🇦🇹 Annual Meeting of the Association for Computational Linguistics (**ACL**) Findings, 2025, Vienna, Austria
-
-- __DyPCL: Dynamic Phoneme-level Contrastive Learning for Dysarthric Speech Recognition__ [<a href="https://arxiv.org/pdf/2501.19010">link</a>]
-
-  **Wonjun Lee***, Solee Im*, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee
-
-  🇺🇸 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL**) Main Conference, 2025, Albuquerque, New Mexico, USA 
-
-
-- __Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning__  [<a href="https://aclanthology.org/2024.sigdial-1.30/">link</a>] [<a href="https://2024.sigdial.org/award/">link</a>]
-
-  **Wonjun Lee***, San Kim*, Gary Geunbae Lee
-  
-  🇯🇵 ACL/ISCA Special Interest Group on Discourse and Dialogue (**SIGDial**), 2024, Kyoto, Japan
-  
-
-- __An Investigation Into Explainable Audio Hate Speech Detection__  [<a href="https://aclanthology.org/2024.sigdial-1.45/">link</a>] 
-
-  **Wonjun Lee***, Jinmyeong An*, Yejin Jeon, Jungseul Ok, Yunsu Kim, Gary Geunbae Lee
-
-  🇯🇵 ACL/ISCA Special Interest Group on Discourse and Dialogue (**SIGDial**), 2024, Kyoto, Japan
-  
-- __Acoustic Feature Mixup for Balanced Multi-aspect Pronunciation Assessment__  [<a href="https://arxiv.org/abs/2406.15723">link</a>]
-
-  Heejin Do, **Wonjun Lee**, Gary Geunbae Lee
-
-  🇬🇷 **INTERSPEECH**, 2024, Kos Island, Greece
-
-- __Optimizing Two-Pass Cross-Lingual Transfer Learning: Phoneme Recognition and Phoneme to Grapheme Translation__  [<a href="https://arxiv.org/abs/2312.03312">link</a>]
-
-  **Wonjun Lee**, Yunsu Kim and Gary Geunbae Lee
-
-  🇹🇼 IEEE Workshop on Automatic Speech Recognition and Understanding (**ASRU**), 2023, Taipei, Taiwan
-
-
-- __Exploring the Viability of Synthetic Audio Data for Audio-Based Dialogue State Tracking__ [<a href="https://arxiv.org/abs/2312.01842">link</a>]
-
-  Jihyun Lee*, Yejin Jeon*, **Wonjun Lee**, Yunsu Kim and Gary Geunbae Lee
-
-  🇹🇼 IEEE Workshop on Automatic Speech Recognition and Understanding (**ASRU**), 2023, Taipei, Taiwan
-
-
-
-
-#### Domestic
-- __How to Use Speech Related Digital Biomarkers in Patients With Depressive Disorder__ [<a href="https://e-dhr.org/DOIx.php?id=10.61499/dhr.2024.2.e2">link</a>]
-
-  **Wonjun Lee***, Seungyeon Seo*, Hyun Jeong Kim
-
-  🇰🇷 Digital Health Research (Korean Society of Digital Health)
-
-- __한국어 자모단위 음성인식 결과 후보정을 위한 신경망 기반 자모 병합 방법론__
-
-  임솔이*, **이원준***, 이근배, 김윤수
-  
-  🍊 제35회 한글 및 한국어 정보처리 학술대회논문집 (HCLT), 2023, 제주, 대한민국
-
-- __다국어 음성인식을 위한 언어별 출력 계층 구조 Wav2Vec2.0__
-
-  **이원준**, 이근배
-
-  🇰🇷 제33회 한글 및 한국어 정보처리 학술대회 논문집 (HCLT), pp. 414-418, 2021
+---
 
 ## Patents
 
-- __Method and Apparatus for Multilingual Speech Recognition based on Artificial Intelligence Models, U.S. , 17/954,185__
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+**Method and Apparatus for Multilingual Speech Recognition based on Artificial Intelligence Models**  
+U.S. Patent 17/954,185
