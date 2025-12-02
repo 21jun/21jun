@@ -99,4 +99,4 @@ HCLT 2021
 ## Patents
 
 **Method and Apparatus for Multilingual Speech Recognition based on Artificial Intelligence Models**  
-U.S. Patent 17/954,185
+U.S. Patent, [link](https://patents.google.com/patent/US20230162727A1/en)
