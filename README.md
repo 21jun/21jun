@@ -48,7 +48,7 @@ B.S. in Software Engineering & Data Science
 
 **Speak & Spell: LLM-Driven Controllable Phonetic Error Augmentation for Robust Dialogue State Tracking**  
 Jihyun Lee, Solee Im, **Wonjun Lee**, Gary Geunbae Lee  
-IJCNLP-AACL 2025, Mumbai, India
+IJCNLP-AACL 2025, Mumbai, India [link](https://arxiv.org/abs/2409.06263)
 
 **DeRAGEC: Denoising Named Entity Candidates with Synthetic Rationale for ASR Error Correction**  
 **Wonjun Lee***, Solee Im*, Jinmyeong An, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee  
