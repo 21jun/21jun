@@ -1,9 +1,11 @@
 ## Wonjun Lee
 
 
-Ph.D./M.S. Student at POSTECH NLP Lab  
-Advised by Prof. Gary Geunbae Lee  
-Research Interests: Automatic Speech Recognition (ASR), Large Language Models (LLM), MLOps, Kubernetes  
+Ph.D./M.S. Student at POSTECH [NLP Lab](https://nlp.postech.ac.kr)
+Advised by [Prof. Gary Geunbae Lee](https://sites.google.com/view/gary-geunbae-lee/)
+
+Research Interests: Automatic Speech Recognition (ASR), Large Language Models (LLM), MLOps
+
 [Google Scholar](https://scholar.google.com/citations?hl=ko&user=2ut1edkAAAAJ)
 
 ---
